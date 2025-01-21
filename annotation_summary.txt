@@ -1,0 +1,31 @@
+Summary of AnnotationByGeneParts Object
+========================================
+
+Distance to TSS:
+    target.row dist.to.feature feature.name feature.strand
+821         29          -86680    NR_037410              +
+585         39            4379 NM_001039709              +
+502         42           12813    NR_027093              -
+584         44          -20967    NM_005093              +
+220         88           49086    NM_022829              -
+857        100          155551    NR_036162              -
+
+Percentage of Overlaps:
+  promoter       exon     intron intergenic 
+ 0.5720824  0.8009153  3.8901602 95.7665904 
+
+Percentage of Overlaps with Precedence:
+  promoter       exon     intron intergenic 
+ 0.5720824  0.5720824  3.0892449 95.7665904 
+
+Number of Overlapping Features:
+  promoter       exon     intron intergenic 
+         5          7         34        837 
+
+Number of Overlapping Features with Precedence:
+  promoter       exon     intron intergenic 
+         5          5         27        837 
+
+Percentage of Annotation Boundaries with Overlap:
+  promoter       exon     intron 
+0.40045767 0.06708708 0.31124498 
